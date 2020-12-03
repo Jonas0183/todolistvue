@@ -12,8 +12,8 @@ export default {
 
 <style lang="scss">
     h1{
-        font-size: 4vw;
+        font-size: 5vw;
         color: #7a1003;
-        background-color: gray;
+        background-color: rgb(168, 150, 150);
    }
 </style>
